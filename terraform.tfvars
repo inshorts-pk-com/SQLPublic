@@ -1,3 +1,4 @@
+#****** Public Testing *******
 sqlname    = "my-terraform-sql"
 sqlregion  = "asia-south1"
 sqltier    = "db-f1-micro"

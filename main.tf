@@ -1,4 +1,5 @@
 #********* SQL Use case ********
+#****** Public Testing *******
 # 1. Created VPC and Auto subnet
 # 2. Created External Static IP on VPC for VM instance
 # 3. Created SQL Instance

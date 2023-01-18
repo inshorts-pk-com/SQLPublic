@@ -1,3 +1,4 @@
+#****** Public Testing *******
 variable "sqlname" {
   default = "my-terraform-sql"
 }

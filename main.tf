@@ -8,6 +8,7 @@
 # 5. Created VM instance (Startup script for installing MySQL-Server)
 # 6. Created SQL Database 
 # 7. Created SQL user
+# 8. Pulled Repository from Prem
 
 resource "google_sql_database_instance" "instance" {
   name   = var.sqlname

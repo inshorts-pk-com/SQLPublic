@@ -9,6 +9,8 @@
 # 6. Created SQL Database 
 # 7. Created SQL user
 
+# Reviewers approval added
+
 resource "google_sql_database_instance" "instance" {
   name   = var.sqlname
   region = var.sqlregion
